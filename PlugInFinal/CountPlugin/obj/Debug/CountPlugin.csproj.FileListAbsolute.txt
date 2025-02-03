@@ -1,0 +1,11 @@
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\obj\Debug\CountPlugin.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\obj\Debug\CountPlugin.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\bin\Debug\CountPlugin.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\bin\Debug\CountPlugin.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\bin\Debug\PluginLibrary.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\bin\Debug\PluginLibrary.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\obj\Debug\CountPlugin.csproj.CopyComplete
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\obj\Debug\CountPlugin.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\CountPlugin\obj\Debug\CountPlugin.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\Plugins\CountPlugin.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\Plugins\CountPlugin.pdb

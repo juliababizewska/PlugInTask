@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\bin\Debug\PlugInFinal.exe.config
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\bin\Debug\PlugInFinal.exe
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\bin\Debug\PlugInFinal.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\obj\Debug\PlugInFinal.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\obj\Debug\PlugInFinal.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\obj\Debug\PlugInFinal.exe
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\obj\Debug\PlugInFinal.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\bin\Debug\PluginLibrary.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\bin\Debug\PluginLibrary.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PlugInFinal\obj\Debug\PlugInFinal.csproj.CopyComplete

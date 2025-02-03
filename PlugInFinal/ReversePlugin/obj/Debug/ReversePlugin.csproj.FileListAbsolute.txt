@@ -1,0 +1,11 @@
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\bin\Debug\ReversePlugin.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\bin\Debug\ReversePlugin.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\bin\Debug\PluginLibrary.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\bin\Debug\PluginLibrary.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\obj\Debug\ReversePlugin.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\obj\Debug\ReversePlugin.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\obj\Debug\ReversePlugin.csproj.CopyComplete
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\obj\Debug\ReversePlugin.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\ReversePlugin\obj\Debug\ReversePlugin.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\Plugins\ReversePlugin.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\Plugins\ReversePlugin.pdb

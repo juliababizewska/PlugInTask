@@ -1,0 +1,6 @@
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PluginLibrary\bin\Debug\PluginLibrary.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PluginLibrary\bin\Debug\PluginLibrary.pdb
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PluginLibrary\obj\Debug\PluginLibrary.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PluginLibrary\obj\Debug\PluginLibrary.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PluginLibrary\obj\Debug\PluginLibrary.dll
+C:\Users\julia\OneDrive\Dokumenty\studia\do pracy\PlugInFinal\PlugInTask\PlugInFinal\PluginLibrary\obj\Debug\PluginLibrary.pdb
