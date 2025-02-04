@@ -15,20 +15,24 @@ namespace PlugInFinal
 
         static void Main(string[] args)
         {
+            plugins = LoadPlugins();
             string command = args[0];
 
-            plugins = LoadPlugins();
-
+            //foreach ( IPlugin plugin_test in plugins)
+            //{
+            //    Console.WriteLine(plugin_test.ToString());
+            //}
+            
             if (command == "--help")
             {
-                displayManual();
+                IPlugin help = plugins.Find(p => p.name() == command);
+                Console.WriteLine(help.Execute(""));
                 return;
             }
 
             if (args.Length != 2)
             {
-                Console.WriteLine("Error! Two arguments expected.");
-                displayManual();
+                Console.WriteLine("Error! Incorrect input. See --help to explore plugins.");
                 return;
             }
 
@@ -37,23 +41,13 @@ namespace PlugInFinal
             IPlugin plugin = plugins.Find(p => p.name() == command);
             if (plugin == null)
             {
-                Console.WriteLine("Plugin not found, try again");
+                Console.WriteLine("Plugin not found, try again. See --help to explore plugins.");
             }
             else
             {
                 Console.WriteLine(plugin.Execute(argument));
             }
 
-        }
-
-        private static void displayManual()
-        {
-            Console.WriteLine("Syntax: PlugInFinal.exe {command} {input}");
-            Console.WriteLine("Commands:");
-            foreach (IPlugin plugin_it in plugins)
-            {
-                Console.WriteLine("\t" + plugin_it.name() + " -> " + plugin_it.description());
-            }
         }
 
         public static List<IPlugin> LoadPlugins()
@@ -88,7 +82,6 @@ namespace PlugInFinal
                 catch (Exception e)
                 {
                     Console.WriteLine($"Error loading plugins: {e.Message}");
-                    displayManual();
                 }
             }
             

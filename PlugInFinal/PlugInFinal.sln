@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePlugin", "ReversePlu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPlugin", "CountPlugin\CountPlugin.csproj", "{08F5F6D1-7DA2-425E-A66D-D1E503A36D65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpPlugin", "HelpPlugin\HelpPlugin.csproj", "{31D3C460-8314-40DB-9A06-4E49365FD499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{08F5F6D1-7DA2-425E-A66D-D1E503A36D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08F5F6D1-7DA2-425E-A66D-D1E503A36D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08F5F6D1-7DA2-425E-A66D-D1E503A36D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D3C460-8314-40DB-9A06-4E49365FD499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D3C460-8314-40DB-9A06-4E49365FD499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D3C460-8314-40DB-9A06-4E49365FD499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D3C460-8314-40DB-9A06-4E49365FD499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
