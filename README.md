@@ -19,13 +19,13 @@ The application is executed via the command line using the following syntax:
     _PlugInFinal.exe {comand} {input}_
 
   ## Available Commands
-  - count:  _PlugInFinal.exe --count Hello World_
+  - count:  _PlugInFinal.exe --count Hello_
 
-    expected output: 11
+    expected output: 5
 
-  - reverse: _PlugInFinal.exe --reverse Hello World_
+  - reverse: _PlugInFinal.exe --reverse Hello_
 
-    expected output: dlroW olleH
+    expected output: olleH
 
   - help: _PlugInFinal.exe --help_
 
