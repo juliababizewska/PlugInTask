@@ -64,7 +64,7 @@ namespace PlugInFinal
             
             //Console.WriteLine($"Path to plugins folder: {pluginsPath}");
             
-            foreach (string file in Directory.GetFiles(pluginsPath, "*.dll"))
+            foreach (string file in Directory.GetFiles(pluginsPath, "*Plugin.dll"))
             {
                 try
                 {
@@ -73,7 +73,7 @@ namespace PlugInFinal
                     
                     foreach (var type in types)
                     {
-                        if (type.IsInterface)
+                        if (type.IsInterface || !typeof(IPlugin).IsAssignableFrom(type))
                         {
                             continue;
                         }
