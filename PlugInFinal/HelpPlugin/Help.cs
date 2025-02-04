@@ -20,7 +20,7 @@ namespace HelpPlugin
         public string Execute(string input)
         {
             string output = "";
-            List<IPlugin> plugins = Program.LoadPlugins();
+            List<IPlugin> plugins = Program.getPlugins();
             Console.WriteLine("Syntax: PlugInFinal.exe {command} {input}");
             Console.WriteLine("Commands:");
             foreach (IPlugin plugin_it in plugins)

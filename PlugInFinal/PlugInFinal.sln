@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPlugin", "CountPlugin\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpPlugin", "HelpPlugin\HelpPlugin.csproj", "{31D3C460-8314-40DB-9A06-4E49365FD499}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{63B836A1-DE72-46A9-88B8-673C6FAC0B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{31D3C460-8314-40DB-9A06-4E49365FD499}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31D3C460-8314-40DB-9A06-4E49365FD499}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31D3C460-8314-40DB-9A06-4E49365FD499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B836A1-DE72-46A9-88B8-673C6FAC0B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B836A1-DE72-46A9-88B8-673C6FAC0B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B836A1-DE72-46A9-88B8-673C6FAC0B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B836A1-DE72-46A9-88B8-673C6FAC0B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

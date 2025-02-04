@@ -11,7 +11,13 @@ namespace PlugInFinal
     public class Program
     {
 
-        private static List<IPlugin> plugins;
+        static List<IPlugin> plugins;
+
+
+        public static List<IPlugin> getPlugins()
+        {
+            return plugins;
+        }
 
         static void Main(string[] args)
         {
